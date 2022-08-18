@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1634229584 source:c:\users\onkarabile\desktop\goitsemang lebane 1818310 dsa end exam codeblock system\1818310 department of health\code\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+
+1634574481 source:c:\users\onkarabile\desktop\goitsemang lebane 1818310 dsa end exam codeblock system\1818310 department of health\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<fstream>
+
+1634823932 source:c:\users\onkarabile\pictures\saved pictures\goitsemang lebane 1818310 dsa end exam codeblock system\1818310 department of health\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<fstream>
+
+1660820787 source:c:\users\user\desktop\drivers austin\goitsemang lebane 1818310 dsa end exam codeblock system\1818310 department of health\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<fstream>
+
