@@ -7,5 +7,5 @@ The main aim of this project was to show case understanding of the binary search
 
 AUTHENTICATION FOR THE PROJECT
 
-USERNAME = ADMIN
+USERNAME = ADMIN    /
 PASSWORD = 2021
